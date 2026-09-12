@@ -9,16 +9,16 @@ which sets up [Wan2GP](https://github.com/deepbeepmeep/Wan2GP) on a free Colab G
 
 ## Open in Colab
 
-After you push this repo to your own GitHub account, replace `<you>/<repo>`
-below and put this badge at the top of your own README:
+After you push this repo to your own GitHub account, use this badge at the
+top of your own README:
 
 ```
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<you>/<repo>/blob/main/pika_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrtuik/Hika/blob/main/pika_colab.ipynb)
 ```
 
 Or just open it directly with:
 ```
-https://colab.research.google.com/github/<you>/<repo>/blob/main/pika_colab.ipynb
+https://colab.research.google.com/github/mrtuik/Hika/blob/main/pika_colab.ipynb
 ```
 
 ## What this actually is (read before you run it)
